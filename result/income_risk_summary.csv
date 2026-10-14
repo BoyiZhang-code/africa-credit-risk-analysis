@@ -1,0 +1,4 @@
+income_segment,customer_count,loan_count,avg_loan_amount_usd,overdue_loan_count,overdue_loan_rate_pct,loans_with_late_repayment,historical_late_rate_pct
+High income,128,477,803.0,76,15.93,253,53.04
+Low income,99,325,241.8,87,26.77,175,53.85
+Medium income,185,698,417.6,122,17.48,351,50.29

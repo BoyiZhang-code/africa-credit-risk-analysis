@@ -1,0 +1,5 @@
+country,customer_count,loan_count,total_loan_amount_usd,avg_loan_amount_usd,overdue_loan_count,overdue_loan_rate_pct,loans_with_late_repayment,historical_late_rate_pct
+Ghana,91,351,194120.67,553.05,42,11.97,174,49.57
+Kenya,120,437,189063.54,432.64,75,17.16,213,48.74
+Nigeria,141,514,299570.69,582.82,123,23.93,283,55.06
+Uganda,60,198,70345.38,355.28,45,22.73,109,55.05

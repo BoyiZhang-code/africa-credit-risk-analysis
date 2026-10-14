@@ -1,0 +1,23 @@
+table,column,description
+customers,customer_id,Unique customer identifier
+customers,country,Customer country
+customers,age,Customer age
+customers,monthly_income_usd,Estimated monthly income in USD
+customers,signup_date,Date the customer registered
+loans,loan_id,Unique loan identifier
+loans,customer_id,Customer who received the loan
+loans,loan_date,Loan origination date
+loans,loan_amount_usd,Original loan principal
+loans,term_days,Contracted loan term
+loans,credit_score,Simulated credit score at origination
+loans,status,repaid / active / overdue
+repayments,repayment_id,Unique repayment identifier
+repayments,loan_id,Loan associated with repayment
+repayments,repayment_date,Date payment was made
+repayments,amount_paid_usd,Payment amount
+repayments,days_late,Days after due date; 0 means on time
+transactions,transaction_id,Unique transaction identifier
+transactions,customer_id,Customer associated with transaction
+transactions,transaction_date,Transaction date
+transactions,transaction_type,deposit / withdrawal / transfer_in / transfer_out
+transactions,amount_usd,Transaction amount in USD
